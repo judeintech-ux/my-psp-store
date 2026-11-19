@@ -1,0 +1,2 @@
+pkgi_apps.txt|https://githubusercontent.com
+dbformat.txt|https://githubusercontent.com
