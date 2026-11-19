@@ -1,1 +1,1 @@
-PSPFTPDV0-5-0FW4X-BREWOLOGY-COM,18,New game ISO,Download pspftpdv0.5.0fw4x_brewology_com.zip,,https://store.brewology.com/dl/10116/pspftpdv0.5.0fw4x_brewology_com.zip,613418,BDD4604A0D05DFD89E1B2FE5090424C65187F81BF315DF408F41D6D92BB9DFFF
+PSP-POWER-SAVER-V0-1-1,8,New game ISO,This turns off the umd driver when you are not using it (iso/cso; Homebrew;internet;music etc.).,,http://dn721808.ca.archive.org/0/items/psp-power-saver-v-0.1.1/PSP%20Power%20Saver_v0.1.1.zip,16690,B466FBE5AE11B7CA58B6EE1EA2452C95759F77E2DBDA6777804CA259E555BAA6
