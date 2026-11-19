@@ -1,0 +1,15 @@
+url http://example.com/pkgi.txt
+# pkgi_games.txt -> Games; .iso/.cso downloads save to ms0:/ISO
+# pkgi_psx.txt -> PSX entries, including PSX ZIP packages
+# pkgi_nps_games.txt -> NPS Games; .pkg downloads install through the PKG pipeline
+# pkgi_nps_psx.txt -> NPS PSX; .pkg downloads install through the PKG pipeline
+# pkgi_dlcs.txt -> DLCs; .pkg downloads install through the PKG pipeline
+# pkgi_themes.txt -> Themes; .pkg downloads install through the PKG pipeline
+# pkgi_updates.txt -> Updates; .pkg downloads install through the PKG pipeline
+# pkgi_movies.txt -> ms0:/VIDEO (movies and Movie ZIPs extract into the selected folder)
+# pkgi_music.txt -> ms0:/MUSIC (loose music and Music Album ZIPs extract into an album folder)
+# pkgi_music_videos.txt -> ms0:/VIDEO
+# pkgi_tv_shows.txt -> ms0:/VIDEO (episodes and TV Show ZIPs extract into the selected folder)
+# pkgi_homebrew.txt -> Homebrew ZIP packages
+# pkgi_movie_iso.txt -> ms0:/ISO/VIDEO
+# pkgi_wallpapers.txt -> ms0:/PSP/PHOTO
